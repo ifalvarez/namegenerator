@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ser:getUserAndAccountsInfo xmlns:ser="http://services.mobileappbc.ws.todo1.com/">
+	<wamSession/>
+	<t1Assertion>
+		qLDcgwH37D8MJvZKaPgB6KziJMD4Y2CRaVBBJZA6L+XrTPlBvA2KPnc36KJ8TXVhsiasq4WM4Uo7usHdcQjzWrmSEG+ZwjuOPTOES6YlaLbzGXTJV9DUzw7+85B/xO8FLkIsoKyYbWj5QEXR+3VVXsAJ6wrFF4oSDaW+DTYd9ODnz0ZQonMfxV2raWUxbU/w
+	</t1Assertion>
+</ser:getUserAndAccountsInfo>
